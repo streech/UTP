@@ -1,0 +1,240 @@
+Name	Capital	Population	Flag	Last Modified
+Afghanistan	Kabul	32738	data\flag.jpg	17.10.2020 12:00:00
+Albania	Tirana	3620	data\flag.jpg	17.10.2020 12:00:00
+Algeria	Algiers	33770	data\flag.jpg	17.10.2020 12:00:00
+American Samoa	Pago Pago	575	data\flag.jpg	17.10.2020 12:00:00
+Andorra	Andorra la Vella	724	data\flag.jpg	17.10.2020 12:00:00
+Angola	Luanda	12531	data\flag.jpg	17.10.2020 12:00:00
+Anguilla	The Valley	141	data\flag.jpg	17.10.2020 12:00:00
+Antigua & Barbuda	Saint John's	698	data\flag.jpg	17.10.2020 12:00:00
+Argentina	Buenos Aires	40677	data\flag.jpg	17.10.2020 12:00:00
+Armenia	Yerevan	2969	data\flag.jpg	17.10.2020 12:00:00
+Aruba	Oranjestad	1015	data\flag.jpg	17.10.2020 12:00:00
+Australia	Canberra	20601	data\flag.jpg	17.10.2020 12:00:00
+Austria	Vienna	8206	data\flag.jpg	17.10.2020 12:00:00
+Azerbaijan	Baku	8178	data\flag.jpg	17.10.2020 12:00:00
+Bahamas	Nassau	3075	data\flag.jpg	17.10.2020 12:00:00
+Bahrain	Manama	7183	data\flag.jpg	17.10.2020 12:00:00
+Bangladesh	Dhaka	153547	data\flag.jpg	17.10.2020 12:00:00
+Barbados	Bridgetown	282	data\flag.jpg	17.10.2020 12:00:00
+Belarus	Minsk	9686	data\flag.jpg	17.10.2020 12:00:00
+Belgium	Brussels	10404	data\flag.jpg	17.10.2020 12:00:00
+Belize	Belmopan	3013	data\flag.jpg	17.10.2020 12:00:00
+Benin	Porto-Novo	8295	data\flag.jpg	17.10.2020 12:00:00
+Bermuda	Hamilton	665	data\flag.jpg	17.10.2020 12:00:00
+Bhutan	Thimphu	6823	data\flag.jpg	17.10.2020 12:00:00
+Bolivia	Sucre	9248	data\flag.jpg	17.10.2020 12:00:00
+Bosnia & Herzegovina	Sarajevo	4590	data\flag.jpg	17.10.2020 12:00:00
+Botswana	Gaborone	1842	data\flag.jpg	17.10.2020 12:00:00
+Brazil	Brasilia	191909	data\flag.jpg	17.10.2020 12:00:00
+British Virgin Islands	Road Town	24	data\flag.jpg	17.10.2020 12:00:00
+Brunei	Bandar Seri Begawan	3814	data\flag.jpg	17.10.2020 12:00:00
+Bulgaria	Sofia	7263	data\flag.jpg	17.10.2020 12:00:00
+Burkina Faso	Ouagadougou	15265	data\flag.jpg	17.10.2020 12:00:00
+Burma (Myanmar	Rangoon	47758	data\flag.jpg	17.10.2020 12:00:00
+Burundi	Bujumbura	8691	data\flag.jpg	17.10.2020 12:00:00
+Cambodia	Phnom Penh	14242	data\flag.jpg	17.10.2020 12:00:00
+Cameroon	Yaounde	18468	data\flag.jpg	17.10.2020 12:00:00
+Canada	Ottawa	33213	data\flag.jpg	17.10.2020 12:00:00
+Cape Verde	Praia	427	data\flag.jpg	17.10.2020 12:00:00
+Cayman Islands	George Town	479	data\flag.jpg	17.10.2020 12:00:00
+Central African Republic	Bangui	4435	data\flag.jpg	17.10.2020 12:00:00
+Chad	N'Djamena	10111	data\flag.jpg	17.10.2020 12:00:00
+Chile	Santiago	16454	data\flag.jpg	17.10.2020 12:00:00
+China	Beijing	1330045	data\flag.jpg	17.10.2020 12:00:00
+Christmas Island	The Settlement	14	data\flag.jpg	17.10.2020 12:00:00
+Cocos Islands	West Island	600	data\flag.jpg	17.10.2020 12:00:00
+Colombia	Bogota	45014	data\flag.jpg	17.10.2020 12:00:00
+Comoros	Moroni	7318	data\flag.jpg	17.10.2020 12:00:00
+Congo (Dem. Rep.)	Kinshasa	66515	data\flag.jpg	17.10.2020 12:00:00
+Congo (Republic)	Brazzaville	3903	data\flag.jpg	17.10.2020 12:00:00
+Cook Islands	Avarua	219	data\flag.jpg	17.10.2020 12:00:00
+Costa Rica	San Jose	4196	data\flag.jpg	17.10.2020 12:00:00
+Cote d'Ivoire	Yamoussoukro	18373	data\flag.jpg	17.10.2020 12:00:00
+Croatia	Zagreb	4492	data\flag.jpg	17.10.2020 12:00:00
+Cuba	Havana	11424	data\flag.jpg	17.10.2020 12:00:00
+Cyprus	Nicosia	7926	data\flag.jpg	17.10.2020 12:00:00
+Czech Republic	Prague	10221	data\flag.jpg	17.10.2020 12:00:00
+Denmark	Copenhagen	5485	data\flag.jpg	17.10.2020 12:00:00
+Djibouti	Djibouti	5062	data\flag.jpg	17.10.2020 12:00:00
+Dominica	Roseau	725	data\flag.jpg	17.10.2020 12:00:00
+Dominican Republic	Santo Domingo	9507	data\flag.jpg	17.10.2020 12:00:00
+East Timor	Dili	1109	data\flag.jpg	17.10.2020 12:00:00
+Ecuador	Quito	13928	data\flag.jpg	17.10.2020 12:00:00
+Egypt	Cairo	81714	data\flag.jpg	17.10.2020 12:00:00
+El Salvador	San Salvador	7066	data\flag.jpg	17.10.2020 12:00:00
+Equatorial Guinea	Malabo	6165	data\flag.jpg	17.10.2020 12:00:00
+Eritrea	Asmara	5028	data\flag.jpg	17.10.2020 12:00:00
+Estonia	Tallinn	1308	data\flag.jpg	17.10.2020 12:00:00
+Ethiopia	Addis Ababa	78254	data\flag.jpg	17.10.2020 12:00:00
+Falkland Islands (Islas Malvinas)	Stanley	314	data\flag.jpg	17.10.2020 12:00:00
+Faroe Islands	Torshavn	487	data\flag.jpg	17.10.2020 12:00:00
+Fiji	Suva	9317	data\flag.jpg	17.10.2020 12:00:00
+Finland	Helsinki	5245	data\flag.jpg	17.10.2020 12:00:00
+France	Paris	62100	data\flag.jpg	17.10.2020 12:00:00
+French Guiana	Cayenne	2196	data\flag.jpg	17.10.2020 12:00:00
+French Polynesia	Papeete	283	data\flag.jpg	17.10.2020 12:00:00
+Gabon	Libreville	1486	data\flag.jpg	17.10.2020 12:00:00
+Gambia, The	Banjul	1735	data\flag.jpg	17.10.2020 12:00:00
+Georgia	T'bilisi	4631	data\flag.jpg	17.10.2020 12:00:00
+Germany	Berlin	82370	data\flag.jpg	17.10.2020 12:00:00
+Ghana	Accra	23383	data\flag.jpg	17.10.2020 12:00:00
+Gibraltar	Gibraltar	28	data\flag.jpg	17.10.2020 12:00:00
+Great Britain & Northern Ireland	London	60944	data\flag.jpg	17.10.2020 12:00:00
+Greece	Athens	10723	data\flag.jpg	17.10.2020 12:00:00
+Greenland	Nuuk	563	data\flag.jpg	17.10.2020 12:00:00
+Grenada	Saint George's	903	data\flag.jpg	17.10.2020 12:00:00
+Guadeloupe	Basse-Terre	4571	data\flag.jpg	17.10.2020 12:00:00
+Guam	Hagatna	1759	data\flag.jpg	17.10.2020 12:00:00
+Guatemala	Guatemala	13002	data\flag.jpg	17.10.2020 12:00:00
+Guernsey	Saint Peter Port	657	data\flag.jpg	17.10.2020 12:00:00
+Guinea	Conakry	10211	data\flag.jpg	17.10.2020 12:00:00
+Guinea-Bissau	Bissau	1503	data\flag.jpg	17.10.2020 12:00:00
+Guyana	Georgetown	7708	data\flag.jpg	17.10.2020 12:00:00
+Haiti	Port-au-Prince	8925	data\flag.jpg	17.10.2020 12:00:00
+Honduras	Tegucigalpa	7639	data\flag.jpg	17.10.2020 12:00:00
+Hong Kong	Hong Kong	7019	data\flag.jpg	17.10.2020 12:00:00
+Hungary	Budapest	9931	data\flag.jpg	17.10.2020 12:00:00
+Iceland	Reykjavik	3044	data\flag.jpg	17.10.2020 12:00:00
+India	New Delhi	1147996	data\flag.jpg	17.10.2020 12:00:00
+Indonesia	Jakarta	237512	data\flag.jpg	17.10.2020 12:00:00
+Iran	Tehran	65875	data\flag.jpg	17.10.2020 12:00:00
+Iraq	Baghdad	28221	data\flag.jpg	17.10.2020 12:00:00
+Ireland	Dublin	4156	data\flag.jpg	17.10.2020 12:00:00
+Israel	Jerusalem	7112	data\flag.jpg	17.10.2020 12:00:00
+Italy	Rome	58145	data\flag.jpg	17.10.2020 12:00:00
+Jamaica	Kingston	2804	data\flag.jpg	17.10.2020 12:00:00
+Japan	Tokyo	127288	data\flag.jpg	17.10.2020 12:00:00
+Jersey	Saint Helier	915	data\flag.jpg	17.10.2020 12:00:00
+Jordan	Amman	6199	data\flag.jpg	17.10.2020 12:00:00
+Kazakhstan	Astana	15341	data\flag.jpg	17.10.2020 12:00:00
+Kenya	Nairobi	37954	data\flag.jpg	17.10.2020 12:00:00
+Kiribati	Tarawa	1104	data\flag.jpg	17.10.2020 12:00:00
+Korea (North)	P'yongyang	23479	data\flag.jpg	17.10.2020 12:00:00
+Korea (South)	Seoul	49233	data\flag.jpg	17.10.2020 12:00:00
+Kosovo	Priština	2127	data\flag.jpg	17.10.2020 12:00:00
+Kuwait	Kuwait	2597	data\flag.jpg	17.10.2020 12:00:00
+Kyrgyzstan	Bishkek	5357	data\flag.jpg	17.10.2020 12:00:00
+Laos	Vientiane	6678	data\flag.jpg	17.10.2020 12:00:00
+Latvia	Riga	2245	data\flag.jpg	17.10.2020 12:00:00
+Lebanon	Beirut	3972	data\flag.jpg	17.10.2020 12:00:00
+Lesotho	Maseru	2128	data\flag.jpg	17.10.2020 12:00:00
+Liberia	Monrovia	3335	data\flag.jpg	17.10.2020 12:00:00
+Libya	Tripoli	6174	data\flag.jpg	17.10.2020 12:00:00
+Liechtenstein	Vaduz	345	data\flag.jpg	17.10.2020 12:00:00
+Lithuania	Vilnius	3565	data\flag.jpg	17.10.2020 12:00:00
+Luxembourg	Luxembourg	486	data\flag.jpg	17.10.2020 12:00:00
+Macau	Macau	4608	data\flag.jpg	17.10.2020 12:00:00
+Macedonia	Skopje	2061	data\flag.jpg	17.10.2020 12:00:00
+Madagascar	Antananarivo	20043	data\flag.jpg	17.10.2020 12:00:00
+Malawi	Lilongwe	13932	data\flag.jpg	17.10.2020 12:00:00
+Malaysia	Kuala Lumpur	25274	data\flag.jpg	17.10.2020 12:00:00
+Maldives	Male	3792	data\flag.jpg	17.10.2020 12:00:00
+Mali	Bamako	12324	data\flag.jpg	17.10.2020 12:00:00
+Malta	Valletta	4035	data\flag.jpg	17.10.2020 12:00:00
+Man, Isle of	Douglas	762	data\flag.jpg	17.10.2020 12:00:00
+Marshall Islands	Majuro	632	data\flag.jpg	17.10.2020 12:00:00
+Martinique	Fort-de-France	404	data\flag.jpg	17.10.2020 12:00:00
+Mauritania	Nouakchott	3365	data\flag.jpg	17.10.2020 12:00:00
+Mauritius	Port Louis	1274	data\flag.jpg	17.10.2020 12:00:00
+Mayotte	Mamoutzou	2163	data\flag.jpg	17.10.2020 12:00:00
+Mexico	Mexico	109955	data\flag.jpg	17.10.2020 12:00:00
+Micronesia, Federated States of	Palikir	1077	data\flag.jpg	17.10.2020 12:00:00
+Moldova	Chisinau	4324	data\flag.jpg	17.10.2020 12:00:00
+Monaco	Monaco	328	data\flag.jpg	17.10.2020 12:00:00
+Mongolia	Ulaanbaatar	2996	data\flag.jpg	17.10.2020 12:00:00
+Montenegro	Podgorica	6782	data\flag.jpg	17.10.2020 12:00:00
+Montserrat	Plymouth ?	964	data\flag.jpg	17.10.2020 12:00:00
+Morocco	Rabat	34343	data\flag.jpg	17.10.2020 12:00:00
+Mozambique	Maputo	21285	data\flag.jpg	17.10.2020 12:00:00
+Namibia	Windhoek	2089	data\flag.jpg	17.10.2020 12:00:00
+Nauru	no official capital	138	data\flag.jpg	17.10.2020 12:00:00
+Nepal	Kathmandu	29519	data\flag.jpg	17.10.2020 12:00:00
+Netherlands	Amsterdam	16645	data\flag.jpg	17.10.2020 12:00:00
+Netherlands Antilles	Willemstad	2254	data\flag.jpg	17.10.2020 12:00:00
+New Caledonia	Noumea	2248	data\flag.jpg	17.10.2020 12:00:00
+New Zealand	Wellington	4173	data\flag.jpg	17.10.2020 12:00:00
+Nicaragua	Managua	5786	data\flag.jpg	17.10.2020 12:00:00
+Niger	Niamey	13273	data\flag.jpg	17.10.2020 12:00:00
+Nigeria	Abuja	138283	data\flag.jpg	17.10.2020 12:00:00
+Niue	Alofi	144	data\flag.jpg	17.10.2020 12:00:00
+Norfolk Island	Kingston	213	data\flag.jpg	17.10.2020 12:00:00
+Northern Mariana Is.	Saipan	866	data\flag.jpg	17.10.2020 12:00:00
+Norway	Oslo	4644	data\flag.jpg	17.10.2020 12:00:00
+Oman	Muscat	3312	data\flag.jpg	17.10.2020 12:00:00
+Pakistan	Islamabad	167762	data\flag.jpg	17.10.2020 12:00:00
+Palau	Koror	211	data\flag.jpg	17.10.2020 12:00:00
+Palestinian Territories	Ramallah	4149	data\flag.jpg	17.10.2020 12:00:00
+Panama	Panama	3293	data\flag.jpg	17.10.2020 12:00:00
+Papua New Guinea	Port Moresby	5932	data\flag.jpg	17.10.2020 12:00:00
+Paraguay	Asuncion	6831	data\flag.jpg	17.10.2020 12:00:00
+Peru	Lima	29181	data\flag.jpg	17.10.2020 12:00:00
+Philippines	Manila	92681	data\flag.jpg	17.10.2020 12:00:00
+Pitcairn	Adamstown	48	data\flag.jpg	17.10.2020 12:00:00
+Poland	Warsaw	38501	data\flag.jpg	17.10.2020 12:00:00
+Portugal	Lisbon	10677	data\flag.jpg	17.10.2020 12:00:00
+Puerto Rico	San Juan	3958	data\flag.jpg	17.10.2020 12:00:00
+Qatar	Doha	9286	data\flag.jpg	17.10.2020 12:00:00
+Reunion	Saint-Denis	8067	data\flag.jpg	17.10.2020 12:00:00
+Romania	Bucharest	22247	data\flag.jpg	17.10.2020 12:00:00
+Russia	Moscow	140702	data\flag.jpg	17.10.2020 12:00:00
+Rwanda	Kigali	10186	data\flag.jpg	17.10.2020 12:00:00
+Saint Barthelemy	Gustavia	749	data\flag.jpg	17.10.2020 12:00:00
+Saint Helena	Jamestown	76	data\flag.jpg	17.10.2020 12:00:00
+Saint Kitts & Nevis	Basseterre	396	data\flag.jpg	17.10.2020 12:00:00
+Saint Lucia	Castries	1729	data\flag.jpg	17.10.2020 12:00:00
+Saint Martin	Marigot	294	data\flag.jpg	17.10.2020 12:00:00
+Saint Pierre & Miquelon	Kingstown	704	data\flag.jpg	17.10.2020 12:00:00
+Saint Vincent & the Grenadines	Saint-Pierre	1184	data\flag.jpg	17.10.2020 12:00:00
+Samoa	Apia	2171	data\flag.jpg	17.10.2020 12:00:00
+San Marino	San Marino	30	data\flag.jpg	17.10.2020 12:00:00
+Sao Tome and Principe	Sao Tome	2062	data\flag.jpg	17.10.2020 12:00:00
+Saudi Arabia	Riyadh	28161	data\flag.jpg	17.10.2020 12:00:00
+Senegal	Dakar	12853	data\flag.jpg	17.10.2020 12:00:00
+Serbia	Belgrade	10159	data\flag.jpg	17.10.2020 12:00:00
+Seychelles	Victoria	822	data\flag.jpg	17.10.2020 12:00:00
+Sierra Leone	Freetown	6295	data\flag.jpg	17.10.2020 12:00:00
+Singapore	Singapore	4608	data\flag.jpg	17.10.2020 12:00:00
+Slovakia	Bratislava	5455	data\flag.jpg	17.10.2020 12:00:00
+Slovenia	Ljubljana	2008	data\flag.jpg	17.10.2020 12:00:00
+Solomon Islands	Honiara	5813	data\flag.jpg	17.10.2020 12:00:00
+Somalia	Mogadishu	9559	data\flag.jpg	17.10.2020 12:00:00
+South Africa	Pretoria ?	43786	data\flag.jpg	17.10.2020 12:00:00
+Spain	Madrid	40491	data\flag.jpg	17.10.2020 12:00:00
+Sri Lanka	Colombo	21129	data\flag.jpg	17.10.2020 12:00:00
+Sudan	Khartoum	40218	data\flag.jpg	17.10.2020 12:00:00
+Suriname	Paramaribo	476	data\flag.jpg	17.10.2020 12:00:00
+Svalbard	Longyearbyen	217	data\flag.jpg	17.10.2020 12:00:00
+Swaziland	Mbabane ?	1129	data\flag.jpg	17.10.2020 12:00:00
+Sweden	Stockholm	9045	data\flag.jpg	17.10.2020 12:00:00
+Switzerland	Bern	7582	data\flag.jpg	17.10.2020 12:00:00
+Syria	Damascus	19748	data\flag.jpg	17.10.2020 12:00:00
+Taiwan (Rep. of China)	Taipei	22921	data\flag.jpg	17.10.2020 12:00:00
+Tajikistan	Dushanbe	7212	data\flag.jpg	17.10.2020 12:00:00
+Tanzania	Dar es Salaam	40213	data\flag.jpg	17.10.2020 12:00:00
+Thailand	Bangkok	65493	data\flag.jpg	17.10.2020 12:00:00
+Togo	Lome	5859	data\flag.jpg	17.10.2020 12:00:00
+Tokelau	none	143	data\flag.jpg	17.10.2020 12:00:00
+Tonga	Nuku'alofa	119	data\flag.jpg	17.10.2020 12:00:00
+Trinidad & Tobago	Port-of-Spain	1047	data\flag.jpg	17.10.2020 12:00:00
+Tunisia	Tunis	10384	data\flag.jpg	17.10.2020 12:00:00
+Turkey	Ankara	71893	data\flag.jpg	17.10.2020 12:00:00
+Turkmenistan	Ashgabat	5180	data\flag.jpg	17.10.2020 12:00:00
+Turks & Caicos Islands	Cockburn Town	224	data\flag.jpg	17.10.2020 12:00:00
+Tuvalu	Fongafale	122	data\flag.jpg	17.10.2020 12:00:00
+Uganda	Kampala	31368	data\flag.jpg	17.10.2020 12:00:00
+Ukraine	Kiev	45994	data\flag.jpg	17.10.2020 12:00:00
+United Arab Emirates	Abu Dhabi	4621	data\flag.jpg	17.10.2020 12:00:00
+United States of America	Washington DC	303825	data\flag.jpg	17.10.2020 12:00:00
+Uruguay	Montevideo	3478	data\flag.jpg	17.10.2020 12:00:00
+Uzbekistan	Tashkent	28268	data\flag.jpg	17.10.2020 12:00:00
+Vanuatu	Port-Vila	2154	data\flag.jpg	17.10.2020 12:00:00
+Vatican City	Vatican City	820	data\flag.jpg	17.10.2020 12:00:00
+Venezuela	Caracas	26415	data\flag.jpg	17.10.2020 12:00:00
+Vietnam	Hanoi	86117	data\flag.jpg	17.10.2020 12:00:00
+Virgin Islands, U.S.	Charlotte Amalie	1082	data\flag.jpg	17.10.2020 12:00:00
+Wallis and Futuna	Mata-Utu	164	data\flag.jpg	17.10.2020 12:00:00
+Western Sahara	none	3938	data\flag.jpg	17.10.2020 12:00:00
+Yemen	Sanaa	23013	data\flag.jpg	17.10.2020 12:00:00
+Zambia	Lusaka	11670	data\flag.jpg	17.10.2020 12:00:00
+Zimbabwe	Harare	12383	data\flag.jpg	17.10.2020 12:00:00
